@@ -1,3 +1,1 @@
-# cat_dog_classifier
-
-website: https://catdog.glitch.me/
+# Binary image classifier that classifies cat and dog images
